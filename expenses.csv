@@ -1,0 +1,35 @@
+user_id,date,expense_type,vendor,amount,payment_method,notes,receipt_image_path,category_ml_label
+U1,2024-01-01,fuel,HP Petrol,150,UPI,Fuel refill,,fuel
+U1,2024-01-02,food,Hotel Crown,120,Cash,Lunch during shift,,food
+U1,2024-01-04,repair,Local Mechanic,800,UPI,Bike brake repair,,repair
+U1,2024-01-06,rent,Room Owner,3000,UPI,Monthly rent,,rent
+U1,2024-01-06,subscription,Airtel,199,UPI,Mobile plan,,subscription
+U1,2024-01-07,tools,Bike Accessories,450,UPI,Phone holder,,tools
+U1,2024-01-07,fuel,HP Petrol,160,UPI,Fuel refill,,fuel
+U2,2024-01-01,fuel,BP Petrol,200,Cash,Bike petrol,,fuel
+U2,2024-01-02,food,Udipi Hotel,90,UPI,Tea & snacks,,food
+U2,2024-01-03,penalty,Platform Fine,300,UPI,Late delivery charge,,penalty
+U2,2024-01-04,repair,Mechanic Shop,1200,UPI,Tire replacement,,repair
+U2,2024-01-05,subscription,Hotstar,299,UPI,OTT subscription,,subscription
+U2,2024-01-06,food,Food Court,130,UPI,Dinner,,food
+U2,2024-01-07,fuel,BP Petrol,180,UPI,Fuel refill,,fuel
+U3,2024-01-01,food,Local Cafe,110,UPI,Snacks,,food
+U3,2024-01-02,tools,Bike Shop,500,UPI,Raincoat purchase,,tools
+U3,2024-01-03,fuel,Indian Oil,170,UPI,Fuel refill,,fuel
+U3,2024-01-05,penalty,Platform Fine,200,UPI,Cancellation penalty,,penalty
+U3,2024-01-06,rent,PG Owner,3500,UPI,Room rent,,rent
+U3,2024-01-07,subscription,Jio,239,UPI,Data recharge,,subscription
+U3,2024-01-07,food,Cafe Metro,140,UPI,Lunch,,food
+U1,2024-01-08,fuel,HP Petrol,160,UPI,Fuel refill,,fuel
+U2,2024-01-08,food,Hotel Royal,150,Cash,Lunch,,food
+U3,2024-01-08,repair,Local Mechanic,900,UPI,Chain tightening,,repair
+U1,2024-01-09,tools,Bike Store,520,UPI,Bike mirror replacement,,tools
+U2,2024-01-09,subscription,Netflix,499,UPI,OTT plan,,subscription
+U3,2024-01-09,fuel,BP Petrol,180,UPI,Fuel refill,,fuel
+U1,2024-01-10,food,Food Corner,130,Cash,Snacks,,food
+U2,2024-01-10,penalty,Platform Fine,350,UPI,Delay penalty,,penalty
+U3,2024-01-10,rent,PG Owner,3500,UPI,PG rent,,rent
+U1,2024-01-11,repair,Bike Service,1000,UPI,General service,,repair
+U2,2024-01-11,fuel,HP Petrol,170,UPI,Fuel refill,,fuel
+U3,2024-01-11,tools,Bike Market,620,UPI,Helmet visor,,tools
+U1,2024-01-12,food,Cafe Star,140,UPI,Tea & snacks,,food
